@@ -49,8 +49,6 @@ The system is designed to support modern smart-grid applications by enabling acc
 LFSC/
 │
 ├── Dataset/
-│   ├── raw/
-│   └── processed/
 │
 ├── figures/
 │   ├── Data_pre_processing.png
@@ -59,7 +57,10 @@ LFSC/
 │   └── result.png
 │
 ├── models/
-│   └── lstm_1hour.h5
+│   └── lstm_model.h5
+|   └── lstm_model_1.h5
+|   └── lstm_1hour.h5
+|   └── lstm_1hour.h5
 │
 ├── LSTM model/
 │   ├── train.py
