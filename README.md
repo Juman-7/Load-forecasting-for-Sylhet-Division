@@ -187,26 +187,6 @@ print("Daily Forecast:", forecast_daily)
 
 ---
 
-# 🧪 Evaluation
-
-```python
-from evaluate import evaluate_model
-
-metrics_hourly = evaluate_model(
-    model_path="models/lstm_model_hourly.h5",
-    test_data="Dataset/processed/test_hourly.csv"
-)
-
-metrics_daily = evaluate_model(
-    model_path="models/lstm_model_daily.h5",
-    test_data="Dataset/processed/test_daily.csv"
-)
-
-print(metrics_hourly)
-print(metrics_daily)
-```
-
----
 
 # 📊 Dataset Information
 
