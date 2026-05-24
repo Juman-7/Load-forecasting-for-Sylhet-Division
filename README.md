@@ -47,8 +47,8 @@ The system is designed for smart grid applications to improve forecasting accura
 LFSC/
 │
 ├── Dataset/
-│   ├── raw/
-│   └── processed/
+│   ├── 1 hour data/
+│   └── hourly data/
 │
 ├── figures/
 │   ├── Data_pre_processing.png
@@ -63,15 +63,11 @@ LFSC/
 │   └── scaler_daily.pkl
 │
 ├── LSTM model/
-│   ├── train.py
-│   ├── predict.py
-│   └── evaluate.py
+│   ├── 1 day lstm model.ipynb
+│   ├── 1 hour lstm model.ipynb
 │
-├── hardware/
-│   └── ESP32_firmware/
 │
 ├── requirements.txt
-├── config.yaml
 └── README.md
 ```
 
