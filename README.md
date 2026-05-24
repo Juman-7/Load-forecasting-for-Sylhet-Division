@@ -255,18 +255,55 @@ random.seed(42)
 ```
 
 ---
+# 👨‍💻 Authors
 
+**Md. Omar Faruk Sagor¹, Saydul Islam², Md. Shahid Iqbal³, Juman Das⁴, Jahid Hasan⁵, Mrinal Sahajee⁶**
+
+---
+
+## 📍 Affiliations
+
+¹,²,⁴,⁵,⁶ Department of Electrical & Electronic Engineering  
+Sylhet Engineering College, Sylhet, Bangladesh  
+
+³ Department of Electrical & Electronic Engineering  
+Mymensingh Engineering College, Mymensingh, Bangladesh  
+
+---
+
+## 📧 Emails
+
+¹ faruksaagoreee02@gmail.com  
+² saydul@sec.ac.bd  
+³ iqbal@mec.ac.bd  
+⁴ jumandas278@gmail.com  
+⁵ adnanjahid420@gmail.com  
+⁶ mrinal098sh@gmail.com  
+
+---
+
+## ⭐ Contribution Highlight
+
+**Machine Learning / Deep Learning Lead (Primary Contributor):**  
+👉 Juman Das
+
+- Designed and implemented the LSTM-based forecasting models  
+- Developed hourly and daily prediction pipelines  
+- Built preprocessing and scaling pipeline (scaler_hourly & scaler_daily)  
+- Integrated ML model with IoT + web system  
+- Conducted evaluation and performance optimization  
+
+---
 # 🎓 Citation
 
-```bibtex
-@inproceedings{islam2026lstm,
+@inproceedings{qpain2026lstm,
   title={Website-Integrated Hardware Implementation of LSTM-Based Short-Term Load Forecasting Model: A Case Study for Sylhet Division},
-  author={Islam, Saydul},
-  booktitle={IEEE QPAIN 2026},
+  author={Sagor, Md. Omar Faruk and Islam, Saydul and Iqbal, Md. Shahid and Das, Juman and Hasan, Jahid and Sahajee, Mrinal},
+  booktitle={Proceedings of the 2nd IEEE International Conference on Quantum Photonics, Artificial Intelligence, and Networking (QPAIN)},
   year={2026},
-  organization={IEEE}
+  note={Presented at QPAIN 2026 (to be published in IEEE Xplore)},
+  address={Chattogram, Bangladesh}
 }
-```
 
 ---
 
